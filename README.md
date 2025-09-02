@@ -37,5 +37,11 @@ Outside of coding, I enjoy reading, exploring tech blogs, and watching movies.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>  
 </p>
 
-## 🌐 Connect with Me
-- [LinkedIn](https://linkedin.com/in/samiaahmedconnect/)
+## 🌐 Connect with Me  
+
+<p align="left">
+  <a href="https://linkedin.com/in/samiaahmedconnect/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</p>
+
+
