@@ -4,6 +4,9 @@
 I'm **Samia Ahmed**, a Computer Science student from Pakistan.  
 🚀 Aspiring Full-Stack Developer passionate about building impactful web applications.  
 
+<img width="500" height="280" alt="image" src="" />
+
+
 ## 🌟 About Me
 - 💻 Skilled in Python & JavaScript.  
 - 🌱 Currently learning: **MERN Stack**.  
