@@ -4,7 +4,7 @@
 I'm **Samia Ahmed**, a Computer Science student from Pakistan.  
 🚀 Aspiring Full-Stack Developer passionate about building impactful web applications.  
 
-<img width="500" height="280" alt="image" src="" />
+<img width="500" height="280" alt="image" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
 
 
 ## 🌟 About Me
@@ -38,4 +38,4 @@ Outside of coding, I enjoy reading, exploring tech blogs, and watching movies.
 </p>
 
 ## 🌐 Connect with Me
-- [LinkedIn](linkedin.com/in/samiaahmedconnect/)
+- [LinkedIn](https://linkedin.com/in/samiaahmedconnect/)
